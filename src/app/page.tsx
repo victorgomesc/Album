@@ -1,8 +1,11 @@
+"use client";
+
+import Upload from "@/components/UploadImages";
 
 export default function Home() {
   return (
     <div>
-      <h1>Hello world!</h1>
+      <Upload />
     </div>
   );
 }

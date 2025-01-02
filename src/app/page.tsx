@@ -1,11 +1,12 @@
 "use client";
 
-import Upload from "@/components/UploadImages";
+import Header from "@/components/Header";
+
 
 export default function Home() {
   return (
     <div>
-      <Upload />
+      <Header />
     </div>
   );
 }

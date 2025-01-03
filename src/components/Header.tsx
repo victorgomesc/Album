@@ -3,7 +3,7 @@ import React from 'react'
 const Header = () => {
   return (
     <div>
-        <header className="bg-pink-800 text-white py-4 px-6 shadow-lg">
+        <header className="bg-pink-800 text-white py-6 h-24 px-6 shadow-lg">
             <div className="container mx-auto flex justify-between items-center">
                 {/* Título */}
                 <h1 className="text-3xl font-bold">Nossa Historia de Amor</h1>

@@ -5,6 +5,9 @@ const StyledWrapper = styled.div`
     overflow: visible;
     width: 450px;
     height: 700px;
+    margin-top: 8rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
   }
 
   .content {
@@ -57,7 +60,7 @@ const StyledWrapper = styled.div`
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: 30px;
+    gap: 15px;
   }
 
   .card:hover .content {
